@@ -1,4 +1,4 @@
-# teslafatalaccident
+# Tesla Fatal Accident
 Objective: Perform queries on the dataset 'Tesla Deaths' using SQL and present result of the queries onto a dashboard using Tableau Public
 
 Dataset:
